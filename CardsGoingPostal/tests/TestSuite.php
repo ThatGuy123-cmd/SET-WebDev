@@ -5,8 +5,8 @@ class TestSuite {
         
     }
 
-    function showTestResult(String $testLabel, Boolean $result) {
-        if (result) {
+    function showTestResult(String $testLabel, bool $result) {
+        if ($result) {
             echo '[O]   Test: ' . $testLabel . ' successful! <br>'; 
         }
         else {

@@ -45,30 +45,30 @@ session_start();
 
 <body>
 
-<!--<!-- ======= Header ======= -->-->
-<!--<header id="header" class="fixed-top" >-->
-<!--    <div class="container d-flex align-items-center">-->
-<!--        <h1 class="logo me-auto"><a href="index.html"><span>Cards Goi</span>ng Postal</a></h1>-->
-<!--        <nav id="navbar" class="navbar order-last order-lg-0">-->
-<!--            <ul>-->
-<!--                <li><a href="../public/Editor.php"></span> Create image</a></li>-->
-<!--                <li><a href="../public/Card.php"></span> View Gallery</a></li>-->
-<!--                <li class="dropdown"><a href="../public/profile.php"><span>Profile</span> <i class="bi bi-chevron-down"></i></a>-->
-<!--                    <ul>-->
-<!--                        <li><a href="../public/profile.php">Modify user details</a></li>-->
-<!--                    </ul>-->
-<!--                </li>-->
-<!--                <li><a href="#"></span> Cart</a></li>-->
-<!--                <form class="navbar-form navbar-left" action="../public/logout.php" method="post" name="Logout_Form">-->
-<!--                    <button name="Submit" value="Logout" class="button" type="submit">Log out</button>-->
-<!--                </form>-->
-<!---->
-<!--            </ul>-->
-<!--            <i class="bi bi-list mobile-nav-toggle"></i>-->
-<!--        </nav>-->
-<!--        <!-- .navbar -->-->
-<!--    </div>-->
-<!--</header>-->
-<!--<!-- End Header -->-->
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top" >
+    <div class="container d-flex align-items-center">
+        <h1 class="logo me-auto"><a href="index.html"><span>Cards Goi</span>ng Postal</a></h1>
+        <nav id="navbar" class="navbar order-last order-lg-0">
+            <ul>
+                <li><a href="../public/Editor.php"></span> Create image</a></li>
+                <li><a href="../public/Card.php"></span> View Gallery</a></li>
+                <li class="dropdown"><a href="../public/profile.php"><span>Profile</span> <i class="bi bi-chevron-down"></i></a>
+                    <ul>
+                        <li><a href="../public/profile.php">Modify user details</a></li>
+                    </ul>
+                </li>
+                <li><a href="#"></span> Cart</a></li>
+                <form class="navbar-form navbar-left" action="../public/logout.php" method="post" name="Logout_Form">
+                    <button name="Submit" value="Logout" class="button" type="submit">Log out</button>
+                </form>
+
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+        </nav>
+        <!-- .navbar -->
+    </div>
+</header>
+<!-- End Header -->
 
 <main id="main" style="padding-bottom: 250px;">

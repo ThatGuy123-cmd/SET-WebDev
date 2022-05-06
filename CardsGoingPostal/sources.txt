@@ -7,3 +7,6 @@ Front end template:
 php
     SymfonyCast
     Lecture notes
+
+sql
+    Semester 1 lecture notes
